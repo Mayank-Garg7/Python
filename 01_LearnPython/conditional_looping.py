@@ -19,7 +19,7 @@
 
 # for i in range(0,11,1):
 #     print("*"*i)
-#     if i ==9:
+#     if i == 9:
 #         break
 # else:
 #     print("Loop is completed successfully")
